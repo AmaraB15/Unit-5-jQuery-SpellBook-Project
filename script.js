@@ -1,7 +1,7 @@
 //Spell #1
 
-$("      ").click(function(){
- 
+$(".myButton").click(function(){
+$("#fade_cookies") 
 });
 
 
