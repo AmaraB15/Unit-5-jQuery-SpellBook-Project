@@ -2,6 +2,7 @@
     background: white;
 }
 .sweets {
-    height:50px;
-    width: 50px;
+    display: flex;
+    height:300px;
+    width: 300px;
 }
